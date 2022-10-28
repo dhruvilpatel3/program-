@@ -4,7 +4,7 @@ Height = Height/100
 BMI=Weight/(Height*Height)
 print("your Body Mass Index is: ",BMI)
 if(BMI>0):
-	if(BMI<=16):
+	if(BMI<=17):
 		print("you are severely underweight")
 	elif(BMI<=18.5):
 		print("you are underweight")
